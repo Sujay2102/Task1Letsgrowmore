@@ -1,0 +1,161 @@
+
+
+.bgimg{
+    background-image: url('../image/image1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+.hearderset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+.hearderset h2{
+    font-size: 42px;
+}
+.hearderset h1{
+    font-size: 72px;
+    font-weight: bold;
+    margin-right: 32px;
+}
+.container h1 p{
+    font-style: italic;
+    margin-right: 16px;
+    margin-top: 20px;
+}
+.container button{
+    font-size:26px;
+    margin-right: 16px;
+    
+}
+.rowsetting{
+    margin:80px 0px;
+}
+.fa h1{
+    margin-right: 16px;
+}
+.imgsetting{
+    border-radius: 50%;
+    height:100px;
+    
+
+}
+.fa-bell{
+    margin-top: 20px;
+    
+}
+.fa-envelope{
+    margin-top: 20px;
+    
+}
+.fa-shopping-cart{
+    margin-top: 20px;
+    
+}
+.rowsetting p{
+    padding: 10px;
+}
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.fa-umbrella{
+    float: right;
+    position: relative;
+    bottom: 210px;
+    right: 220px;
+    
+
+    
+}
+ .container h1{
+     left: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.container h5{
+    font-weight: bold;
+}
+
+.ourteam{
+    bottom:90px;
+
+    
+}
+.News{
+    padding: 7% 15%;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.contact{
+
+    padding-bottom: 40px;
+    padding-left: 120px;
+    background-color:purple;
+    }
+.contact-heading{
+    font-family:sans-serif;
+    padding-left: 120px;
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.contact-form{
+    width: 200%;
+    height: 50vh;
+    background-size: cover;
+}
+.name{
+    padding-right: 380px;
+
+}
+.mail{
+    padding-right: 380px;
+}
+.password{
+    padding-right: 380px;
+}
+.mobileno{
+
+padding-right: 380px;
+}
+.maps{
+    padding-top: 50px;
+    padding-right: 270px;
+}
+.social-icon{
+    margin: 20px 10px;
+    font-size: 90px;
+}
+.team h3{
+    margin-top: 60px;
+}
+.videos h2{
+    margin-top: 50px;
+}
+.videos{
+    background-color:blue;
+}
+.team{
+    background-color: white;
+
+}
+.pricing h5{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+    
+
+
+
+
